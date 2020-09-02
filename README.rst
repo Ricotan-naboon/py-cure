@@ -53,7 +53,7 @@ Get from slug.
 
 ::
 
-   $ python
+   $ python3
    >>> from pycure import Precure
    >>> Precure.slugs
    ['', 'maxheart', 'splashstar', 'yes', 'gogo', 'fresh', 'heartcatch', 'suite', 'smile', 'dokidoki']
@@ -67,7 +67,7 @@ Precure girls of the first series require her partner to transform.
 
 ::
 
-   $ python
+   $ python3
    >>> from pycure import Precure
    >>> p = Precure[""]
    >>> p.title
