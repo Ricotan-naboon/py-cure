@@ -6,7 +6,7 @@ All about Japanese battle heroine "Pretty Cure".
 
 Inspired by Acme::PrettyCure.
 
-The library is forked from [Google](https://www.google.co.jp/)
+The library is forked from [pycure](https://github.com/drillbits/pycure)
 
 Requirements
 ============
