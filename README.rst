@@ -6,6 +6,8 @@ All about Japanese battle heroine "Pretty Cure".
 
 Inspired by Acme::PrettyCure.
 
+The forked https://github.com/drillbits/pycure
+
 Requirements
 ============
 
@@ -18,7 +20,7 @@ Installation
 
 ::
 
-   $ git clone https://github.com/Ricotan-naboon/pycure.git && cd pycure && python3 setup.py install
+   $ git clone https://github.com/Ricotan-naboon/py-cure.git && cd pycure && python3 setup.py install
    
 If You using pip, You can not get latest Packeage.
 
