@@ -15,6 +15,13 @@ Requirements
 
 - Tested on Python 3.7.6 3.8.1 3.9.0rc1
 
+Support environment.
+============
+
+- Mac OS X 10.7.5(11G63)
+
+- other environment is not supported.
+
 Installation
 ============
 
@@ -54,7 +61,7 @@ Get from slug.
    >>> p.girls[2].name
    '黄瀬やよい'
    >>> p.girls[2].transform()
-   ピカピカピカリンジャンケンポン！ キュアピース！
+   ピカピカピカリンジャンケンポン！(チョキ！)キュアピース！
 
 Precure girls of the first series require her partner to transform.
 
