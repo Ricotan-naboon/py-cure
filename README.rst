@@ -13,12 +13,12 @@ Requirements
 
 - Python 3.3 or higher
 
-- Tested on Python 3.7.6 3.8.1 3.9.0rc1
+- Author is Tested on Python 3.7.6 3.8.1 3.9.0rc1
 
 Support environment.
 ============
 
-- Mac OS X 10.7.5(11G63)
+- Mac OS X 10.7.5(11G63)+Python3.7.4+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 
 - other environment is not supported.
 
