@@ -1,19 +1,19 @@
 ======
-pycure
+py-cure
 ======
 
 All about Japanese battle heroine "Pretty Cure".
 
 Inspired by Acme::PrettyCure.
 
-The forked https://github.com/drillbits/pycure
+The library is forked from [pycure](https://github.com/drillbits/pycure)
 
 Requirements
 ============
 
 - Python 3.3 or higher
 
-- validation version 3.7.6 3.8.1 3.9.0rc1
+- Tested on Python 3.7.6 3.8.1 3.9.0rc1
 
 Installation
 ============
@@ -21,8 +21,6 @@ Installation
 ::
 
    $ git clone https://github.com/Ricotan-naboon/py-cure.git && cd pycure && python3 setup.py install
-   
-If You using pip, You can not get latest Packeage.
 
 Usage
 =====
