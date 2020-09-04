@@ -22,6 +22,10 @@ Support environment.
 
 - other environment is not supported.
 
+About revision requests, etc.
+==============================
+We are waiting for Isuee and Pull-requests. Please English or Japanese written.
+
 Installation
 ============
 
@@ -114,6 +118,10 @@ Pythonにてプリキュアの各種名称を表示できるライブラリで�
 
 - その他の環境はサポートしません。
 
+修正依頼等について
+===========
+プルリクやIssueをお待ちしております。日本語または英語どちらかにてお願いします。
+
 インストール方法
 ============
 
@@ -155,7 +163,7 @@ slugから取得.
    >>> p.girls[2].transform()
    ピカピカピカリンジャンケンポン！(チョキ！)キュアピース！
 
-初代のプリキュアは、パートナーが変身する必要があります。
+初代のプリキュアは、パートナーも変身する必要があります。
 
 ::
 
