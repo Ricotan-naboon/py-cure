@@ -20,7 +20,10 @@ Support environment.
 
 - Mac OS X 10.7.5(11G63)+Python3.7.4+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 
-- other environment is not supported.
+- other environment is not supported. but I may check for work before I die.
+
+* checked environment
+   * Cygwin(maybe 3.1.7)+Python3.8 [GCC 9.3.0] on cygwin
 
 About revision requests, etc.
 ==============================
@@ -31,7 +34,7 @@ Installation
 
 ::
 
-   $ git clone https://github.com/Ricotan-naboon/py-cure.git && cd pycure && python3 setup.py install
+   $ git clone https://github.com/Ricotan-naboon/py-cure.git && cd py-cure && python3 setup.py install
 
 Usage
 =====
@@ -116,7 +119,10 @@ Pythonにてプリキュアの各種名称を表示できるライブラリで�
 
 - Mac OS X 10.7.5(11G63)+Python3.7.4+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 
-- その他の環境はサポートしません。
+- その他の環境はサポートしません。ただ多分死ぬまでには動作確認はすると思います。
+
+* 動作確認済み
+   * Cygwin(maybe 3.1.7)+Python3.8 [GCC 9.3.0] on cygwin
 
 修正依頼等について
 ===========
